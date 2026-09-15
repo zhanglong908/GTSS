@@ -1,0 +1,840 @@
+[ Wed Aug 26 22:21:36 2026 ] Dataset:  phoenix2014
+[ Wed Aug 26 22:21:36 2026 ] Class_Num:  1296
+[ Wed Aug 26 22:21:36 2026 ] BatchSize:  2
+[ Wed Aug 26 22:21:36 2026 ] Backbone:  resnet34
+[ Wed Aug 26 22:21:36 2026 ] Num_Epoch:  100
+[ Wed Aug 26 22:21:49 2026 ] 	Epoch: 0, Batch(0/2835) done. Loss: 523.07476807  lr:0.000100
+[ Wed Aug 26 22:39:45 2026 ] 	Mean training loss: 111.8279771095.
+[ Wed Aug 26 22:42:55 2026 ] Dev WER: 60.79% DEV del 34.61% DEV ins 01.32%
+[ Wed Aug 26 22:42:55 2026 ] Test WER: 58.55% Test del 31.93% Test ins 01.71%
+[ Wed Aug 26 22:42:56 2026 ] Save best model
+[ Wed Aug 26 22:42:56 2026 ] Best_dev: 60.79, 34.61, 01.32, Best_test: 58.55, 31.93, 01.71,Epoch : 0
+[ Wed Aug 26 22:42:56 2026 ] Epoch 0 costs 21 mins 20 seconds
+[ Wed Aug 26 22:42:56 2026 ] Training costs 0 hours 21 mins 20 seconds
+
+[ Wed Aug 26 22:43:03 2026 ] 	Epoch: 1, Batch(0/2835) done. Loss: 119.20498657  lr:0.000100
+[ Wed Aug 26 23:00:56 2026 ] 	Mean training loss: 74.1573577807.
+[ Wed Aug 26 23:04:18 2026 ] Dev WER: 41.00% DEV del 18.46% DEV ins 02.91%
+[ Wed Aug 26 23:04:18 2026 ] Test WER: 40.33% Test del 17.76% Test ins 02.79%
+[ Wed Aug 26 23:04:18 2026 ] Save best model
+[ Wed Aug 26 23:04:18 2026 ] Best_dev: 41.00, 18.46, 02.91, Best_test: 40.33, 17.76, 02.79,Epoch : 1
+[ Wed Aug 26 23:04:18 2026 ] Epoch 1 costs 21 mins 22 seconds
+[ Wed Aug 26 23:04:18 2026 ] Training costs 0 hours 42 mins 42 seconds
+
+[ Wed Aug 26 23:04:24 2026 ] 	Epoch: 2, Batch(0/2835) done. Loss: 56.64485550  lr:0.000100
+[ Wed Aug 26 23:22:16 2026 ] 	Mean training loss: 57.0405272230.
+[ Wed Aug 26 23:25:08 2026 ] Dev WER: 34.34% DEV del 12.74% DEV ins 02.95%
+[ Wed Aug 26 23:25:08 2026 ] Test WER: 34.64% Test del 12.22% Test ins 02.91%
+[ Wed Aug 26 23:25:09 2026 ] Save best model
+[ Wed Aug 26 23:25:09 2026 ] Best_dev: 34.34, 12.74, 02.95, Best_test: 34.64, 12.22, 02.91,Epoch : 2
+[ Wed Aug 26 23:25:09 2026 ] Epoch 2 costs 20 mins 50 seconds
+[ Wed Aug 26 23:25:09 2026 ] Training costs 1 hours 3 mins 33 seconds
+
+[ Wed Aug 26 23:25:20 2026 ] 	Epoch: 3, Batch(0/2835) done. Loss: 59.01792145  lr:0.000100
+[ Wed Aug 26 23:43:07 2026 ] 	Mean training loss: 48.3324144680.
+[ Wed Aug 26 23:46:00 2026 ] Dev WER: 29.85% DEV del 11.35% DEV ins 03.04%
+[ Wed Aug 26 23:46:00 2026 ] Test WER: 30.41% Test del 10.64% Test ins 02.88%
+[ Wed Aug 26 23:46:00 2026 ] Save best model
+[ Wed Aug 26 23:46:00 2026 ] Best_dev: 29.85, 11.35, 03.04, Best_test: 30.41, 10.64, 02.88,Epoch : 3
+[ Wed Aug 26 23:46:00 2026 ] Epoch 3 costs 20 mins 50 seconds
+[ Wed Aug 26 23:46:00 2026 ] Training costs 1 hours 24 mins 23 seconds
+
+[ Wed Aug 26 23:46:08 2026 ] 	Epoch: 4, Batch(0/2835) done. Loss: 63.50649643  lr:0.000100
+[ Thu Aug 27 00:03:59 2026 ] 	Mean training loss: 42.8838543697.
+[ Thu Aug 27 00:07:04 2026 ] Dev WER: 26.67% DEV del 08.89% DEV ins 02.84%
+[ Thu Aug 27 00:07:04 2026 ] Test WER: 26.62% Test del 09.17% Test ins 02.73%
+[ Thu Aug 27 00:07:04 2026 ] Save best model
+[ Thu Aug 27 00:07:04 2026 ] Best_dev: 26.67, 08.89, 02.84, Best_test: 26.62, 09.17, 02.73,Epoch : 4
+[ Thu Aug 27 00:07:04 2026 ] Epoch 4 costs 21 mins 3 seconds
+[ Thu Aug 27 00:07:04 2026 ] Training costs 1 hours 45 mins 27 seconds
+
+[ Thu Aug 27 00:07:12 2026 ] 	Epoch: 5, Batch(0/2835) done. Loss: 34.97498322  lr:0.000100
+[ Thu Aug 27 00:25:01 2026 ] 	Mean training loss: 38.7964645993.
+[ Thu Aug 27 00:28:09 2026 ] Dev WER: 26.59% DEV del 09.05% DEV ins 02.77%
+[ Thu Aug 27 00:28:09 2026 ] Test WER: 26.48% Test del 08.11% Test ins 02.73%
+[ Thu Aug 27 00:28:10 2026 ] Save best model
+[ Thu Aug 27 00:28:10 2026 ] Best_dev: 26.59, 09.05, 02.77, Best_test: 26.48, 08.11, 02.73,Epoch : 5
+[ Thu Aug 27 00:28:10 2026 ] Epoch 5 costs 21 mins 5 seconds
+[ Thu Aug 27 00:28:10 2026 ] Training costs 2 hours 6 mins 33 seconds
+
+[ Thu Aug 27 00:28:15 2026 ] 	Epoch: 6, Batch(0/2835) done. Loss: 34.03340912  lr:0.000100
+[ Thu Aug 27 00:46:09 2026 ] 	Mean training loss: 35.6173716844.
+[ Thu Aug 27 00:49:03 2026 ] Dev WER: 25.67% DEV del 09.41% DEV ins 02.32%
+[ Thu Aug 27 00:49:03 2026 ] Test WER: 25.59% Test del 09.93% Test ins 02.59%
+[ Thu Aug 27 00:49:04 2026 ] Save best model
+[ Thu Aug 27 00:49:04 2026 ] Best_dev: 25.67, 09.41, 02.32, Best_test: 25.59, 09.93, 02.59,Epoch : 6
+[ Thu Aug 27 00:49:04 2026 ] Epoch 6 costs 20 mins 53 seconds
+[ Thu Aug 27 00:49:04 2026 ] Training costs 2 hours 27 mins 27 seconds
+
+[ Thu Aug 27 00:49:08 2026 ] 	Epoch: 7, Batch(0/2835) done. Loss: 23.81752586  lr:0.000100
+[ Thu Aug 27 01:07:05 2026 ] 	Mean training loss: 32.7887127545.
+[ Thu Aug 27 01:09:57 2026 ] Dev WER: 23.32% DEV del 06.54% DEV ins 02.91%
+[ Thu Aug 27 01:09:57 2026 ] Test WER: 23.97% Test del 06.17% Test ins 03.14%
+[ Thu Aug 27 01:09:58 2026 ] Save best model
+[ Thu Aug 27 01:09:58 2026 ] Best_dev: 23.32, 06.54, 02.91, Best_test: 23.97, 06.17, 03.14,Epoch : 7
+[ Thu Aug 27 01:09:58 2026 ] Epoch 7 costs 20 mins 54 seconds
+[ Thu Aug 27 01:09:58 2026 ] Training costs 2 hours 48 mins 21 seconds
+
+[ Thu Aug 27 01:10:03 2026 ] 	Epoch: 8, Batch(0/2835) done. Loss: 20.73448944  lr:0.000100
+[ Thu Aug 27 01:27:55 2026 ] 	Mean training loss: 30.5311540550.
+[ Thu Aug 27 01:31:02 2026 ] Dev WER: 23.26% DEV del 07.78% DEV ins 02.61%
+[ Thu Aug 27 01:31:02 2026 ] Test WER: 23.06% Test del 07.46% Test ins 02.56%
+[ Thu Aug 27 01:31:03 2026 ] Save best model
+[ Thu Aug 27 01:31:03 2026 ] Best_dev: 23.26, 07.78, 02.61, Best_test: 23.06, 07.46, 02.56,Epoch : 8
+[ Thu Aug 27 01:31:03 2026 ] Epoch 8 costs 21 mins 4 seconds
+[ Thu Aug 27 01:31:03 2026 ] Training costs 3 hours 9 mins 26 seconds
+
+[ Thu Aug 27 01:31:10 2026 ] 	Epoch: 9, Batch(0/2835) done. Loss: 28.02600479  lr:0.000100
+[ Thu Aug 27 01:49:03 2026 ] 	Mean training loss: 28.3587993719.
+[ Thu Aug 27 01:52:16 2026 ] Dev WER: 22.94% DEV del 07.24% DEV ins 02.44%
+[ Thu Aug 27 01:52:16 2026 ] Test WER: 22.71% Test del 06.86% Test ins 02.10%
+[ Thu Aug 27 01:52:17 2026 ] Save best model
+[ Thu Aug 27 01:52:17 2026 ] Best_dev: 22.94, 07.24, 02.44, Best_test: 22.71, 06.86, 02.10,Epoch : 9
+[ Thu Aug 27 01:52:17 2026 ] Epoch 9 costs 21 mins 13 seconds
+[ Thu Aug 27 01:52:17 2026 ] Training costs 3 hours 30 mins 39 seconds
+
+[ Thu Aug 27 01:52:24 2026 ] 	Epoch: 10, Batch(0/2835) done. Loss: 36.27722168  lr:0.000100
+[ Thu Aug 27 02:10:20 2026 ] 	Mean training loss: 26.8148038824.
+[ Thu Aug 27 02:13:26 2026 ] Dev WER: 21.78% DEV del 07.44% DEV ins 02.30%
+[ Thu Aug 27 02:13:26 2026 ] Test WER: 21.75% Test del 06.58% Test ins 02.47%
+[ Thu Aug 27 02:13:27 2026 ] Save best model
+[ Thu Aug 27 02:13:27 2026 ] Best_dev: 21.78, 07.44, 02.30, Best_test: 21.75, 06.58, 02.47,Epoch : 10
+[ Thu Aug 27 02:13:27 2026 ] Epoch 10 costs 21 mins 9 seconds
+[ Thu Aug 27 02:13:27 2026 ] Training costs 3 hours 51 mins 49 seconds
+
+[ Thu Aug 27 02:13:32 2026 ] 	Epoch: 11, Batch(0/2835) done. Loss: 21.48282623  lr:0.000100
+[ Thu Aug 27 02:31:36 2026 ] 	Mean training loss: 25.1870720007.
+[ Thu Aug 27 02:34:50 2026 ] Dev WER: 20.82% DEV del 06.39% DEV ins 02.70%
+[ Thu Aug 27 02:34:50 2026 ] Test WER: 21.29% Test del 06.07% Test ins 02.27%
+[ Thu Aug 27 02:34:51 2026 ] Save best model
+[ Thu Aug 27 02:34:51 2026 ] Best_dev: 20.82, 06.39, 02.70, Best_test: 21.29, 06.07, 02.27,Epoch : 11
+[ Thu Aug 27 02:34:51 2026 ] Epoch 11 costs 21 mins 24 seconds
+[ Thu Aug 27 02:34:51 2026 ] Training costs 4 hours 13 mins 13 seconds
+
+[ Thu Aug 27 02:34:56 2026 ] 	Epoch: 12, Batch(0/2835) done. Loss: 12.61517906  lr:0.000100
+[ Thu Aug 27 02:52:47 2026 ] 	Mean training loss: 23.5535730325.
+[ Thu Aug 27 02:55:53 2026 ] Dev WER: 21.04% DEV del 06.82% DEV ins 02.62%
+[ Thu Aug 27 02:55:53 2026 ] Test WER: 21.30% Test del 06.77% Test ins 02.42%
+[ Thu Aug 27 02:55:53 2026 ] Best_dev: 20.82, 06.39, 02.70, Best_test: 21.29, 06.07, 02.27,Epoch : 11
+[ Thu Aug 27 02:55:53 2026 ] Epoch 12 costs 21 mins 1 seconds
+[ Thu Aug 27 02:55:53 2026 ] Training costs 4 hours 34 mins 15 seconds
+
+[ Thu Aug 27 02:55:58 2026 ] 	Epoch: 13, Batch(0/2835) done. Loss: 23.01876831  lr:0.000100
+[ Thu Aug 27 03:13:48 2026 ] 	Mean training loss: 22.3366678763.
+[ Thu Aug 27 03:16:52 2026 ] Dev WER: 20.78% DEV del 06.70% DEV ins 02.62%
+[ Thu Aug 27 03:16:52 2026 ] Test WER: 21.10% Test del 06.32% Test ins 02.61%
+[ Thu Aug 27 03:16:52 2026 ] Save best model
+[ Thu Aug 27 03:16:52 2026 ] Best_dev: 20.78, 06.70, 02.62, Best_test: 21.10, 06.32, 02.61,Epoch : 13
+[ Thu Aug 27 03:16:53 2026 ] Epoch 13 costs 20 mins 59 seconds
+[ Thu Aug 27 03:16:53 2026 ] Training costs 4 hours 55 mins 15 seconds
+
+[ Thu Aug 27 03:17:00 2026 ] 	Epoch: 14, Batch(0/2835) done. Loss: 27.22814369  lr:0.000100
+[ Thu Aug 27 03:34:52 2026 ] 	Mean training loss: 21.1608456538.
+[ Thu Aug 27 03:37:54 2026 ] Dev WER: 20.53% DEV del 06.12% DEV ins 02.62%
+[ Thu Aug 27 03:37:54 2026 ] Test WER: 20.67% Test del 05.98% Test ins 02.51%
+[ Thu Aug 27 03:37:54 2026 ] Save best model
+[ Thu Aug 27 03:37:54 2026 ] Best_dev: 20.53, 06.12, 02.62, Best_test: 20.67, 05.98, 02.51,Epoch : 14
+[ Thu Aug 27 03:37:54 2026 ] Epoch 14 costs 21 mins 1 seconds
+[ Thu Aug 27 03:37:54 2026 ] Training costs 5 hours 16 mins 16 seconds
+
+[ Thu Aug 27 03:38:03 2026 ] 	Epoch: 15, Batch(0/2835) done. Loss: 13.41455936  lr:0.000100
+[ Thu Aug 27 03:55:51 2026 ] 	Mean training loss: 19.8935314777.
+[ Thu Aug 27 03:58:47 2026 ] Dev WER: 20.46% DEV del 05.94% DEV ins 02.88%
+[ Thu Aug 27 03:58:47 2026 ] Test WER: 20.56% Test del 05.89% Test ins 02.76%
+[ Thu Aug 27 03:58:47 2026 ] Save best model
+[ Thu Aug 27 03:58:47 2026 ] Best_dev: 20.46, 05.94, 02.88, Best_test: 20.56, 05.89, 02.76,Epoch : 15
+[ Thu Aug 27 03:58:47 2026 ] Epoch 15 costs 20 mins 52 seconds
+[ Thu Aug 27 03:58:47 2026 ] Training costs 5 hours 37 mins 9 seconds
+
+[ Thu Aug 27 03:58:55 2026 ] 	Epoch: 16, Batch(0/2835) done. Loss: 13.89872265  lr:0.000100
+[ Thu Aug 27 04:16:43 2026 ] 	Mean training loss: 18.9830485743.
+[ Thu Aug 27 04:19:37 2026 ] Dev WER: 20.20% DEV del 06.15% DEV ins 02.66%
+[ Thu Aug 27 04:19:37 2026 ] Test WER: 20.52% Test del 06.21% Test ins 02.64%
+[ Thu Aug 27 04:19:37 2026 ] Save best model
+[ Thu Aug 27 04:19:37 2026 ] Best_dev: 20.20, 06.15, 02.66, Best_test: 20.52, 06.21, 02.64,Epoch : 16
+[ Thu Aug 27 04:19:37 2026 ] Epoch 16 costs 20 mins 49 seconds
+[ Thu Aug 27 04:19:37 2026 ] Training costs 5 hours 57 mins 59 seconds
+
+[ Thu Aug 27 04:19:42 2026 ] 	Epoch: 17, Batch(0/2835) done. Loss: 11.63694954  lr:0.000100
+[ Thu Aug 27 04:37:34 2026 ] 	Mean training loss: 18.2130144641.
+[ Thu Aug 27 04:40:46 2026 ] Dev WER: 21.25% DEV del 07.68% DEV ins 02.15%
+[ Thu Aug 27 04:40:46 2026 ] Test WER: 21.09% Test del 07.25% Test ins 01.82%
+[ Thu Aug 27 04:40:46 2026 ] Best_dev: 20.20, 06.15, 02.66, Best_test: 20.52, 06.21, 02.64,Epoch : 16
+[ Thu Aug 27 04:40:47 2026 ] Epoch 17 costs 21 mins 8 seconds
+[ Thu Aug 27 04:40:47 2026 ] Training costs 6 hours 19 mins 8 seconds
+
+[ Thu Aug 27 04:40:54 2026 ] 	Epoch: 18, Batch(0/2835) done. Loss: 15.94304657  lr:0.000100
+[ Thu Aug 27 04:58:48 2026 ] 	Mean training loss: 17.4552868300.
+[ Thu Aug 27 05:01:50 2026 ] Dev WER: 19.88% DEV del 05.83% DEV ins 02.90%
+[ Thu Aug 27 05:01:50 2026 ] Test WER: 20.36% Test del 05.86% Test ins 02.54%
+[ Thu Aug 27 05:01:50 2026 ] Save best model
+[ Thu Aug 27 05:01:50 2026 ] Best_dev: 19.88, 05.83, 02.90, Best_test: 20.36, 05.86, 02.54,Epoch : 18
+[ Thu Aug 27 05:01:50 2026 ] Epoch 18 costs 21 mins 3 seconds
+[ Thu Aug 27 05:01:50 2026 ] Training costs 6 hours 40 mins 12 seconds
+
+[ Thu Aug 27 05:01:59 2026 ] 	Epoch: 19, Batch(0/2835) done. Loss: 29.16193771  lr:0.000100
+[ Thu Aug 27 05:19:50 2026 ] 	Mean training loss: 16.5481814374.
+[ Thu Aug 27 05:22:43 2026 ] Dev WER: 21.02% DEV del 07.39% DEV ins 02.21%
+[ Thu Aug 27 05:22:43 2026 ] Test WER: 21.43% Test del 07.37% Test ins 02.27%
+[ Thu Aug 27 05:22:43 2026 ] Best_dev: 19.88, 05.83, 02.90, Best_test: 20.36, 05.86, 02.54,Epoch : 18
+[ Thu Aug 27 05:22:43 2026 ] Epoch 19 costs 20 mins 52 seconds
+[ Thu Aug 27 05:22:43 2026 ] Training costs 7 hours 1 mins 5 seconds
+
+[ Thu Aug 27 05:22:47 2026 ] 	Epoch: 20, Batch(0/2835) done. Loss: 12.16555977  lr:0.000100
+[ Thu Aug 27 05:40:42 2026 ] 	Mean training loss: 15.9133632828.
+[ Thu Aug 27 05:44:11 2026 ] Dev WER: 20.64% DEV del 06.86% DEV ins 02.24%
+[ Thu Aug 27 05:44:11 2026 ] Test WER: 21.07% Test del 06.66% Test ins 02.20%
+[ Thu Aug 27 05:44:11 2026 ] Best_dev: 19.88, 05.83, 02.90, Best_test: 20.36, 05.86, 02.54,Epoch : 18
+[ Thu Aug 27 05:44:11 2026 ] Epoch 20 costs 21 mins 27 seconds
+[ Thu Aug 27 05:44:11 2026 ] Training costs 7 hours 22 mins 32 seconds
+
+[ Thu Aug 27 05:44:19 2026 ] 	Epoch: 21, Batch(0/2835) done. Loss: 18.41535568  lr:0.000100
+[ Thu Aug 27 06:02:10 2026 ] 	Mean training loss: 15.2763737058.
+[ Thu Aug 27 06:05:23 2026 ] Dev WER: 19.66% DEV del 06.19% DEV ins 02.32%
+[ Thu Aug 27 06:05:23 2026 ] Test WER: 20.12% Test del 05.69% Test ins 02.44%
+[ Thu Aug 27 06:05:23 2026 ] Save best model
+[ Thu Aug 27 06:05:23 2026 ] Best_dev: 19.66, 06.19, 02.32, Best_test: 20.12, 05.69, 02.44,Epoch : 21
+[ Thu Aug 27 06:05:24 2026 ] Epoch 21 costs 21 mins 12 seconds
+[ Thu Aug 27 06:05:24 2026 ] Training costs 7 hours 43 mins 45 seconds
+
+[ Thu Aug 27 06:05:31 2026 ] 	Epoch: 22, Batch(0/2835) done. Loss: 14.64732265  lr:0.000100
+[ Thu Aug 27 06:23:23 2026 ] 	Mean training loss: 14.7230005782.
+[ Thu Aug 27 06:26:33 2026 ] Dev WER: 19.79% DEV del 06.03% DEV ins 02.82%
+[ Thu Aug 27 06:26:33 2026 ] Test WER: 20.12% Test del 05.52% Test ins 02.82%
+[ Thu Aug 27 06:26:33 2026 ] Best_dev: 19.66, 06.19, 02.32, Best_test: 20.12, 05.69, 02.44,Epoch : 21
+[ Thu Aug 27 06:26:33 2026 ] Epoch 22 costs 21 mins 9 seconds
+[ Thu Aug 27 06:26:33 2026 ] Training costs 8 hours 4 mins 54 seconds
+
+[ Thu Aug 27 06:26:37 2026 ] 	Epoch: 23, Batch(0/2835) done. Loss: 7.46263552  lr:0.000100
+[ Thu Aug 27 06:44:27 2026 ] 	Mean training loss: 14.0805597567.
+[ Thu Aug 27 06:47:28 2026 ] Dev WER: 20.09% DEV del 06.10% DEV ins 02.52%
+[ Thu Aug 27 06:47:28 2026 ] Test WER: 20.07% Test del 06.23% Test ins 02.30%
+[ Thu Aug 27 06:47:28 2026 ] Best_dev: 19.66, 06.19, 02.32, Best_test: 20.12, 05.69, 02.44,Epoch : 21
+[ Thu Aug 27 06:47:28 2026 ] Epoch 23 costs 20 mins 54 seconds
+[ Thu Aug 27 06:47:28 2026 ] Training costs 8 hours 25 mins 49 seconds
+
+[ Thu Aug 27 06:47:34 2026 ] 	Epoch: 24, Batch(0/2835) done. Loss: 8.96065140  lr:0.000100
+[ Thu Aug 27 07:05:26 2026 ] 	Mean training loss: 13.6496383493.
+[ Thu Aug 27 07:08:11 2026 ] Dev WER: 19.32% DEV del 05.70% DEV ins 02.44%
+[ Thu Aug 27 07:08:11 2026 ] Test WER: 19.96% Test del 05.41% Test ins 02.74%
+[ Thu Aug 27 07:08:11 2026 ] Save best model
+[ Thu Aug 27 07:08:11 2026 ] Best_dev: 19.32, 05.70, 02.44, Best_test: 19.96, 05.41, 02.74,Epoch : 24
+[ Thu Aug 27 07:08:11 2026 ] Epoch 24 costs 20 mins 43 seconds
+[ Thu Aug 27 07:08:11 2026 ] Training costs 8 hours 46 mins 33 seconds
+
+[ Thu Aug 27 07:08:15 2026 ] 	Epoch: 25, Batch(0/2835) done. Loss: 11.18898678  lr:0.000100
+[ Thu Aug 27 07:26:08 2026 ] 	Mean training loss: 13.1763511675.
+[ Thu Aug 27 07:29:11 2026 ] Dev WER: 20.06% DEV del 06.86% DEV ins 02.15%
+[ Thu Aug 27 07:29:11 2026 ] Test WER: 19.89% Test del 06.64% Test ins 01.99%
+[ Thu Aug 27 07:29:11 2026 ] Best_dev: 19.32, 05.70, 02.44, Best_test: 19.96, 05.41, 02.74,Epoch : 24
+[ Thu Aug 27 07:29:11 2026 ] Epoch 25 costs 20 mins 59 seconds
+[ Thu Aug 27 07:29:11 2026 ] Training costs 9 hours 7 mins 32 seconds
+
+[ Thu Aug 27 07:29:16 2026 ] 	Epoch: 26, Batch(0/2835) done. Loss: 19.00573921  lr:0.000100
+[ Thu Aug 27 07:47:08 2026 ] 	Mean training loss: 12.7955739843.
+[ Thu Aug 27 07:50:12 2026 ] Dev WER: 20.09% DEV del 05.77% DEV ins 02.75%
+[ Thu Aug 27 07:50:12 2026 ] Test WER: 20.93% Test del 05.55% Test ins 02.48%
+[ Thu Aug 27 07:50:12 2026 ] Best_dev: 19.32, 05.70, 02.44, Best_test: 19.96, 05.41, 02.74,Epoch : 24
+[ Thu Aug 27 07:50:12 2026 ] Epoch 26 costs 21 mins 1 seconds
+[ Thu Aug 27 07:50:12 2026 ] Training costs 9 hours 28 mins 33 seconds
+
+[ Thu Aug 27 07:50:20 2026 ] 	Epoch: 27, Batch(0/2835) done. Loss: 22.73413467  lr:0.000100
+[ Thu Aug 27 08:08:10 2026 ] 	Mean training loss: 12.4255186162.
+[ Thu Aug 27 08:11:03 2026 ] Dev WER: 19.53% DEV del 05.96% DEV ins 02.50%
+[ Thu Aug 27 08:11:03 2026 ] Test WER: 20.26% Test del 05.46% Test ins 02.47%
+[ Thu Aug 27 08:11:03 2026 ] Best_dev: 19.32, 05.70, 02.44, Best_test: 19.96, 05.41, 02.74,Epoch : 24
+[ Thu Aug 27 08:11:03 2026 ] Epoch 27 costs 20 mins 51 seconds
+[ Thu Aug 27 08:11:03 2026 ] Training costs 9 hours 49 mins 24 seconds
+
+[ Thu Aug 27 08:11:10 2026 ] 	Epoch: 28, Batch(0/2835) done. Loss: 8.63175869  lr:0.000100
+[ Thu Aug 27 08:29:04 2026 ] 	Mean training loss: 12.0701759570.
+[ Thu Aug 27 08:32:08 2026 ] Dev WER: 19.26% DEV del 05.59% DEV ins 02.34%
+[ Thu Aug 27 08:32:08 2026 ] Test WER: 19.70% Test del 05.90% Test ins 02.42%
+[ Thu Aug 27 08:32:08 2026 ] Save best model
+[ Thu Aug 27 08:32:08 2026 ] Best_dev: 19.26, 05.59, 02.34, Best_test: 19.70, 05.90, 02.42,Epoch : 28
+[ Thu Aug 27 08:32:09 2026 ] Epoch 28 costs 21 mins 5 seconds
+[ Thu Aug 27 08:32:09 2026 ] Training costs 10 hours 10 mins 29 seconds
+
+[ Thu Aug 27 08:32:16 2026 ] 	Epoch: 29, Batch(0/2835) done. Loss: 17.85063553  lr:0.000100
+[ Thu Aug 27 08:50:03 2026 ] 	Mean training loss: 11.8654478533.
+[ Thu Aug 27 08:53:09 2026 ] Dev WER: 19.70% DEV del 05.45% DEV ins 02.91%
+[ Thu Aug 27 08:53:09 2026 ] Test WER: 19.72% Test del 05.24% Test ins 02.68%
+[ Thu Aug 27 08:53:09 2026 ] Best_dev: 19.26, 05.59, 02.34, Best_test: 19.70, 05.90, 02.42,Epoch : 28
+[ Thu Aug 27 08:53:09 2026 ] Epoch 29 costs 21 mins 0 seconds
+[ Thu Aug 27 08:53:09 2026 ] Training costs 10 hours 31 mins 29 seconds
+
+[ Thu Aug 27 08:53:17 2026 ] 	Epoch: 30, Batch(0/2835) done. Loss: 14.31895351  lr:0.000100
+[ Thu Aug 27 09:11:08 2026 ] 	Mean training loss: 11.4891219847.
+[ Thu Aug 27 09:14:12 2026 ] Dev WER: 19.99% DEV del 06.25% DEV ins 02.59%
+[ Thu Aug 27 09:14:12 2026 ] Test WER: 19.18% Test del 05.64% Test ins 02.33%
+[ Thu Aug 27 09:14:12 2026 ] Best_dev: 19.26, 05.59, 02.34, Best_test: 19.70, 05.90, 02.42,Epoch : 28
+[ Thu Aug 27 09:14:12 2026 ] Epoch 30 costs 21 mins 2 seconds
+[ Thu Aug 27 09:14:12 2026 ] Training costs 10 hours 52 mins 32 seconds
+
+[ Thu Aug 27 09:14:20 2026 ] 	Epoch: 31, Batch(0/2835) done. Loss: 13.78627872  lr:0.000100
+[ Thu Aug 27 09:32:07 2026 ] 	Mean training loss: 11.3409135209.
+[ Thu Aug 27 09:35:22 2026 ] Dev WER: 18.94% DEV del 05.56% DEV ins 02.52%
+[ Thu Aug 27 09:35:22 2026 ] Test WER: 19.28% Test del 04.67% Test ins 02.68%
+[ Thu Aug 27 09:35:22 2026 ] Save best model
+[ Thu Aug 27 09:35:22 2026 ] Best_dev: 18.94, 05.56, 02.52, Best_test: 19.28, 04.67, 02.68,Epoch : 31
+[ Thu Aug 27 09:35:22 2026 ] Epoch 31 costs 21 mins 10 seconds
+[ Thu Aug 27 09:35:22 2026 ] Training costs 11 hours 13 mins 43 seconds
+
+[ Thu Aug 27 09:35:27 2026 ] 	Epoch: 32, Batch(0/2835) done. Loss: 7.39899588  lr:0.000100
+[ Thu Aug 27 09:53:22 2026 ] 	Mean training loss: 10.9835253387.
+[ Thu Aug 27 09:56:21 2026 ] Dev WER: 18.77% DEV del 05.10% DEV ins 02.62%
+[ Thu Aug 27 09:56:21 2026 ] Test WER: 19.76% Test del 04.98% Test ins 02.77%
+[ Thu Aug 27 09:56:21 2026 ] Best_dev: 18.94, 05.56, 02.52, Best_test: 19.28, 04.67, 02.68,Epoch : 31
+[ Thu Aug 27 09:56:21 2026 ] Epoch 32 costs 20 mins 58 seconds
+[ Thu Aug 27 09:56:21 2026 ] Training costs 11 hours 34 mins 41 seconds
+
+[ Thu Aug 27 09:56:30 2026 ] 	Epoch: 33, Batch(0/2835) done. Loss: 10.91379261  lr:0.000100
+[ Thu Aug 27 10:14:22 2026 ] 	Mean training loss: 10.8319121488.
+[ Thu Aug 27 10:17:32 2026 ] Dev WER: 18.86% DEV del 05.77% DEV ins 02.01%
+[ Thu Aug 27 10:17:32 2026 ] Test WER: 19.78% Test del 06.10% Test ins 02.28%
+[ Thu Aug 27 10:17:32 2026 ] Best_dev: 18.94, 05.56, 02.52, Best_test: 19.28, 04.67, 02.68,Epoch : 31
+[ Thu Aug 27 10:17:32 2026 ] Epoch 33 costs 21 mins 11 seconds
+[ Thu Aug 27 10:17:32 2026 ] Training costs 11 hours 55 mins 52 seconds
+
+[ Thu Aug 27 10:17:41 2026 ] 	Epoch: 34, Batch(0/2835) done. Loss: 11.66268349  lr:0.000100
+[ Thu Aug 27 10:35:29 2026 ] 	Mean training loss: 10.4766402955.
+[ Thu Aug 27 10:38:44 2026 ] Dev WER: 19.53% DEV del 05.96% DEV ins 02.48%
+[ Thu Aug 27 10:38:44 2026 ] Test WER: 19.38% Test del 05.01% Test ins 02.59%
+[ Thu Aug 27 10:38:44 2026 ] Best_dev: 18.94, 05.56, 02.52, Best_test: 19.28, 04.67, 02.68,Epoch : 31
+[ Thu Aug 27 10:38:44 2026 ] Epoch 34 costs 21 mins 11 seconds
+[ Thu Aug 27 10:38:44 2026 ] Training costs 12 hours 17 mins 4 seconds
+
+[ Thu Aug 27 10:38:50 2026 ] 	Epoch: 35, Batch(0/2835) done. Loss: 7.88506889  lr:0.000100
+[ Thu Aug 27 10:56:40 2026 ] 	Mean training loss: 10.4539322832.
+[ Thu Aug 27 10:59:43 2026 ] Dev WER: 19.88% DEV del 06.17% DEV ins 02.30%
+[ Thu Aug 27 10:59:43 2026 ] Test WER: 20.01% Test del 05.56% Test ins 02.56%
+[ Thu Aug 27 10:59:43 2026 ] Best_dev: 18.94, 05.56, 02.52, Best_test: 19.28, 04.67, 02.68,Epoch : 31
+[ Thu Aug 27 10:59:43 2026 ] Epoch 35 costs 20 mins 58 seconds
+[ Thu Aug 27 10:59:43 2026 ] Training costs 12 hours 38 mins 3 seconds
+
+[ Thu Aug 27 10:59:48 2026 ] 	Epoch: 36, Batch(0/2835) done. Loss: 11.07363129  lr:0.000100
+[ Thu Aug 27 11:17:42 2026 ] 	Mean training loss: 10.3225507502.
+[ Thu Aug 27 11:20:46 2026 ] Dev WER: 19.28% DEV del 06.19% DEV ins 02.44%
+[ Thu Aug 27 11:20:46 2026 ] Test WER: 19.89% Test del 05.73% Test ins 02.34%
+[ Thu Aug 27 11:20:46 2026 ] Best_dev: 18.94, 05.56, 02.52, Best_test: 19.28, 04.67, 02.68,Epoch : 31
+[ Thu Aug 27 11:20:46 2026 ] Epoch 36 costs 21 mins 2 seconds
+[ Thu Aug 27 11:20:46 2026 ] Training costs 12 hours 59 mins 6 seconds
+
+[ Thu Aug 27 11:20:55 2026 ] 	Epoch: 37, Batch(0/2835) done. Loss: 9.19082928  lr:0.000100
+[ Thu Aug 27 11:38:47 2026 ] 	Mean training loss: 10.0223530830.
+[ Thu Aug 27 11:41:42 2026 ] Dev WER: 19.30% DEV del 05.63% DEV ins 02.66%
+[ Thu Aug 27 11:41:42 2026 ] Test WER: 19.64% Test del 05.73% Test ins 02.54%
+[ Thu Aug 27 11:41:42 2026 ] Best_dev: 18.94, 05.56, 02.52, Best_test: 19.28, 04.67, 02.68,Epoch : 31
+[ Thu Aug 27 11:41:42 2026 ] Epoch 37 costs 20 mins 56 seconds
+[ Thu Aug 27 11:41:42 2026 ] Training costs 13 hours 20 mins 2 seconds
+
+[ Thu Aug 27 11:41:49 2026 ] 	Epoch: 38, Batch(0/2835) done. Loss: 8.42425632  lr:0.000100
+[ Thu Aug 27 11:59:40 2026 ] 	Mean training loss: 9.9358473547.
+[ Thu Aug 27 12:02:43 2026 ] Dev WER: 19.12% DEV del 05.38% DEV ins 02.77%
+[ Thu Aug 27 12:02:43 2026 ] Test WER: 20.16% Test del 05.06% Test ins 03.10%
+[ Thu Aug 27 12:02:43 2026 ] Best_dev: 18.94, 05.56, 02.52, Best_test: 19.28, 04.67, 02.68,Epoch : 31
+[ Thu Aug 27 12:02:44 2026 ] Epoch 38 costs 21 mins 1 seconds
+[ Thu Aug 27 12:02:44 2026 ] Training costs 13 hours 41 mins 3 seconds
+
+[ Thu Aug 27 12:02:49 2026 ] 	Epoch: 39, Batch(0/2835) done. Loss: 7.54795170  lr:0.000100
+[ Thu Aug 27 12:20:45 2026 ] 	Mean training loss: 9.5976543637.
+[ Thu Aug 27 12:23:48 2026 ] Dev WER: 19.46% DEV del 05.85% DEV ins 02.55%
+[ Thu Aug 27 12:23:48 2026 ] Test WER: 19.41% Test del 05.50% Test ins 02.51%
+[ Thu Aug 27 12:23:48 2026 ] Best_dev: 18.94, 05.56, 02.52, Best_test: 19.28, 04.67, 02.68,Epoch : 31
+[ Thu Aug 27 12:23:48 2026 ] Epoch 39 costs 21 mins 4 seconds
+[ Thu Aug 27 12:23:48 2026 ] Training costs 14 hours 2 mins 8 seconds
+
+[ Thu Aug 27 12:23:57 2026 ] 	Epoch: 40, Batch(0/2835) done. Loss: 10.86087894  lr:0.000020
+[ Thu Aug 27 12:41:49 2026 ] 	Mean training loss: 7.6032270573.
+[ Thu Aug 27 12:44:45 2026 ] Dev WER: 18.07% DEV del 05.76% DEV ins 02.06%
+[ Thu Aug 27 12:44:45 2026 ] Test WER: 18.36% Test del 05.64% Test ins 02.17%
+[ Thu Aug 27 12:44:46 2026 ] Save best model
+[ Thu Aug 27 12:44:46 2026 ] Best_dev: 18.07, 05.76, 02.06, Best_test: 18.36, 05.64, 02.17,Epoch : 40
+[ Thu Aug 27 12:44:46 2026 ] Epoch 40 costs 20 mins 57 seconds
+[ Thu Aug 27 12:44:46 2026 ] Training costs 14 hours 23 mins 6 seconds
+
+[ Thu Aug 27 12:44:55 2026 ] 	Epoch: 41, Batch(0/2835) done. Loss: 11.27185535  lr:0.000020
+[ Thu Aug 27 13:02:46 2026 ] 	Mean training loss: 6.9704332217.
+[ Thu Aug 27 13:05:43 2026 ] Dev WER: 17.80% DEV del 05.52% DEV ins 02.14%
+[ Thu Aug 27 13:05:43 2026 ] Test WER: 18.02% Test del 05.33% Test ins 02.20%
+[ Thu Aug 27 13:05:44 2026 ] Save best model
+[ Thu Aug 27 13:05:44 2026 ] Best_dev: 17.80, 05.52, 02.14, Best_test: 18.02, 05.33, 02.20,Epoch : 41
+[ Thu Aug 27 13:05:44 2026 ] Epoch 41 costs 20 mins 57 seconds
+[ Thu Aug 27 13:05:44 2026 ] Training costs 14 hours 44 mins 3 seconds
+
+[ Thu Aug 27 13:05:52 2026 ] 	Epoch: 42, Batch(0/2835) done. Loss: 6.08621407  lr:0.000020
+[ Thu Aug 27 13:23:43 2026 ] 	Mean training loss: 6.6827764715.
+[ Thu Aug 27 13:26:56 2026 ] Dev WER: 17.65% DEV del 05.21% DEV ins 02.34%
+[ Thu Aug 27 13:26:56 2026 ] Test WER: 17.79% Test del 05.12% Test ins 02.36%
+[ Thu Aug 27 13:26:56 2026 ] Save best model
+[ Thu Aug 27 13:26:56 2026 ] Best_dev: 17.65, 05.21, 02.34, Best_test: 17.79, 05.12, 02.36,Epoch : 42
+[ Thu Aug 27 13:26:56 2026 ] Epoch 42 costs 21 mins 12 seconds
+[ Thu Aug 27 13:26:56 2026 ] Training costs 15 hours 5 mins 16 seconds
+
+[ Thu Aug 27 13:27:02 2026 ] 	Epoch: 43, Batch(0/2835) done. Loss: 5.33885622  lr:0.000020
+[ Thu Aug 27 13:44:54 2026 ] 	Mean training loss: 6.5036806487.
+[ Thu Aug 27 13:48:01 2026 ] Dev WER: 17.58% DEV del 05.27% DEV ins 02.21%
+[ Thu Aug 27 13:48:01 2026 ] Test WER: 17.77% Test del 05.12% Test ins 02.11%
+[ Thu Aug 27 13:48:01 2026 ] Save best model
+[ Thu Aug 27 13:48:01 2026 ] Best_dev: 17.58, 05.27, 02.21, Best_test: 17.77, 05.12, 02.11,Epoch : 43
+[ Thu Aug 27 13:48:02 2026 ] Epoch 43 costs 21 mins 5 seconds
+[ Thu Aug 27 13:48:02 2026 ] Training costs 15 hours 26 mins 21 seconds
+
+[ Thu Aug 27 13:48:08 2026 ] 	Epoch: 44, Batch(0/2835) done. Loss: 4.41910505  lr:0.000020
+[ Thu Aug 27 14:06:00 2026 ] 	Mean training loss: 6.3276172887.
+[ Thu Aug 27 14:09:03 2026 ] Dev WER: 17.61% DEV del 05.20% DEV ins 02.15%
+[ Thu Aug 27 14:09:03 2026 ] Test WER: 17.88% Test del 05.26% Test ins 01.97%
+[ Thu Aug 27 14:09:03 2026 ] Best_dev: 17.58, 05.27, 02.21, Best_test: 17.77, 05.12, 02.11,Epoch : 43
+[ Thu Aug 27 14:09:03 2026 ] Epoch 44 costs 21 mins 1 seconds
+[ Thu Aug 27 14:09:03 2026 ] Training costs 15 hours 47 mins 22 seconds
+
+[ Thu Aug 27 14:09:11 2026 ] 	Epoch: 45, Batch(0/2835) done. Loss: 7.96656561  lr:0.000020
+[ Thu Aug 27 14:28:56 2026 ] 	Mean training loss: 6.3294025885.
+[ Thu Aug 27 14:32:04 2026 ] Dev WER: 17.65% DEV del 05.65% DEV ins 02.17%
+[ Thu Aug 27 14:32:04 2026 ] Test WER: 17.96% Test del 05.29% Test ins 02.02%
+[ Thu Aug 27 14:32:04 2026 ] Best_dev: 17.58, 05.27, 02.21, Best_test: 17.77, 05.12, 02.11,Epoch : 43
+[ Thu Aug 27 14:32:05 2026 ] Epoch 45 costs 23 mins 1 seconds
+[ Thu Aug 27 14:32:05 2026 ] Training costs 16 hours 10 mins 24 seconds
+
+[ Thu Aug 27 14:32:14 2026 ] 	Epoch: 46, Batch(0/2835) done. Loss: 5.87892771  lr:0.000020
+[ Thu Aug 27 14:50:02 2026 ] 	Mean training loss: 6.0813945886.
+[ Thu Aug 27 14:53:07 2026 ] Dev WER: 17.72% DEV del 05.87% DEV ins 02.03%
+[ Thu Aug 27 14:53:07 2026 ] Test WER: 17.84% Test del 05.52% Test ins 01.83%
+[ Thu Aug 27 14:53:07 2026 ] Best_dev: 17.58, 05.27, 02.21, Best_test: 17.77, 05.12, 02.11,Epoch : 43
+[ Thu Aug 27 14:53:07 2026 ] Epoch 46 costs 21 mins 2 seconds
+[ Thu Aug 27 14:53:07 2026 ] Training costs 16 hours 31 mins 26 seconds
+
+[ Thu Aug 27 14:53:14 2026 ] 	Epoch: 47, Batch(0/2835) done. Loss: 8.22372627  lr:0.000020
+[ Thu Aug 27 15:11:06 2026 ] 	Mean training loss: 6.0233149948.
+[ Thu Aug 27 15:14:17 2026 ] Dev WER: 17.60% DEV del 05.10% DEV ins 02.35%
+[ Thu Aug 27 15:14:17 2026 ] Test WER: 17.70% Test del 05.07% Test ins 02.05%
+[ Thu Aug 27 15:14:18 2026 ] Save best model
+[ Thu Aug 27 15:14:18 2026 ] Best_dev: 17.60, 05.10, 02.35, Best_test: 17.70, 05.07, 02.05,Epoch : 47
+[ Thu Aug 27 15:14:18 2026 ] Epoch 47 costs 21 mins 10 seconds
+[ Thu Aug 27 15:14:18 2026 ] Training costs 16 hours 52 mins 36 seconds
+
+[ Thu Aug 27 15:14:22 2026 ] 	Epoch: 48, Batch(0/2835) done. Loss: 4.45660448  lr:0.000020
+[ Thu Aug 27 15:32:23 2026 ] 	Mean training loss: 5.9747478500.
+[ Thu Aug 27 15:35:49 2026 ] Dev WER: 17.45% DEV del 05.18% DEV ins 02.10%
+[ Thu Aug 27 15:35:49 2026 ] Test WER: 17.53% Test del 05.27% Test ins 01.94%
+[ Thu Aug 27 15:35:50 2026 ] Save best model
+[ Thu Aug 27 15:35:50 2026 ] Best_dev: 17.45, 05.18, 02.10, Best_test: 17.53, 05.27, 01.94,Epoch : 48
+[ Thu Aug 27 15:35:50 2026 ] Epoch 48 costs 21 mins 32 seconds
+[ Thu Aug 27 15:35:50 2026 ] Training costs 17 hours 14 mins 9 seconds
+
+[ Thu Aug 27 15:35:58 2026 ] 	Epoch: 49, Batch(0/2835) done. Loss: 6.93387175  lr:0.000020
+[ Thu Aug 27 15:54:08 2026 ] 	Mean training loss: 5.8755056524.
+[ Thu Aug 27 15:57:34 2026 ] Dev WER: 17.81% DEV del 05.54% DEV ins 02.06%
+[ Thu Aug 27 15:57:34 2026 ] Test WER: 18.22% Test del 05.77% Test ins 02.02%
+[ Thu Aug 27 15:57:34 2026 ] Best_dev: 17.45, 05.18, 02.10, Best_test: 17.53, 05.27, 01.94,Epoch : 48
+[ Thu Aug 27 15:57:34 2026 ] Epoch 49 costs 21 mins 43 seconds
+[ Thu Aug 27 15:57:34 2026 ] Training costs 17 hours 35 mins 53 seconds
+
+[ Thu Aug 27 15:57:41 2026 ] 	Epoch: 50, Batch(0/2835) done. Loss: 3.94136095  lr:0.000020
+[ Thu Aug 27 16:15:53 2026 ] 	Mean training loss: 5.8303556060.
+[ Thu Aug 27 16:19:23 2026 ] Dev WER: 17.98% DEV del 05.38% DEV ins 02.30%
+[ Thu Aug 27 16:19:23 2026 ] Test WER: 17.85% Test del 05.12% Test ins 02.30%
+[ Thu Aug 27 16:19:23 2026 ] Best_dev: 17.45, 05.18, 02.10, Best_test: 17.53, 05.27, 01.94,Epoch : 48
+[ Thu Aug 27 16:19:24 2026 ] Epoch 50 costs 21 mins 49 seconds
+[ Thu Aug 27 16:19:24 2026 ] Training costs 17 hours 57 mins 42 seconds
+
+[ Thu Aug 27 16:19:32 2026 ] 	Epoch: 51, Batch(0/2835) done. Loss: 5.06015873  lr:0.000020
+[ Thu Aug 27 16:37:43 2026 ] 	Mean training loss: 5.8181967550.
+[ Thu Aug 27 16:41:03 2026 ] Dev WER: 17.80% DEV del 04.82% DEV ins 02.73%
+[ Thu Aug 27 16:41:03 2026 ] Test WER: 17.87% Test del 04.42% Test ins 02.56%
+[ Thu Aug 27 16:41:03 2026 ] Best_dev: 17.45, 05.18, 02.10, Best_test: 17.53, 05.27, 01.94,Epoch : 48
+[ Thu Aug 27 16:41:03 2026 ] Epoch 51 costs 21 mins 39 seconds
+[ Thu Aug 27 16:41:03 2026 ] Training costs 18 hours 19 mins 21 seconds
+
+[ Thu Aug 27 16:41:13 2026 ] 	Epoch: 52, Batch(0/2835) done. Loss: 9.14434910  lr:0.000020
+[ Thu Aug 27 16:59:19 2026 ] 	Mean training loss: 5.6396388883.
+[ Thu Aug 27 17:02:35 2026 ] Dev WER: 17.89% DEV del 05.10% DEV ins 02.43%
+[ Thu Aug 27 17:02:35 2026 ] Test WER: 17.42% Test del 04.66% Test ins 02.08%
+[ Thu Aug 27 17:02:35 2026 ] Best_dev: 17.45, 05.18, 02.10, Best_test: 17.53, 05.27, 01.94,Epoch : 48
+[ Thu Aug 27 17:02:36 2026 ] Epoch 52 costs 21 mins 32 seconds
+[ Thu Aug 27 17:02:36 2026 ] Training costs 18 hours 40 mins 54 seconds
+
+[ Thu Aug 27 17:02:40 2026 ] 	Epoch: 53, Batch(0/2835) done. Loss: 5.08473825  lr:0.000020
+[ Thu Aug 27 17:20:47 2026 ] 	Mean training loss: 5.6069080116.
+[ Thu Aug 27 17:23:48 2026 ] Dev WER: 17.47% DEV del 05.32% DEV ins 02.15%
+[ Thu Aug 27 17:23:48 2026 ] Test WER: 17.65% Test del 05.07% Test ins 02.10%
+[ Thu Aug 27 17:23:48 2026 ] Best_dev: 17.45, 05.18, 02.10, Best_test: 17.53, 05.27, 01.94,Epoch : 48
+[ Thu Aug 27 17:23:48 2026 ] Epoch 53 costs 21 mins 12 seconds
+[ Thu Aug 27 17:23:48 2026 ] Training costs 19 hours 2 mins 6 seconds
+
+[ Thu Aug 27 17:23:54 2026 ] 	Epoch: 54, Batch(0/2835) done. Loss: 4.75779867  lr:0.000020
+[ Thu Aug 27 17:42:01 2026 ] 	Mean training loss: 5.6405517105.
+[ Thu Aug 27 17:45:01 2026 ] Dev WER: 18.27% DEV del 06.32% DEV ins 01.94%
+[ Thu Aug 27 17:45:01 2026 ] Test WER: 18.21% Test del 06.14% Test ins 01.82%
+[ Thu Aug 27 17:45:01 2026 ] Best_dev: 17.45, 05.18, 02.10, Best_test: 17.53, 05.27, 01.94,Epoch : 48
+[ Thu Aug 27 17:45:02 2026 ] Epoch 54 costs 21 mins 13 seconds
+[ Thu Aug 27 17:45:02 2026 ] Training costs 19 hours 23 mins 19 seconds
+
+[ Thu Aug 27 17:45:12 2026 ] 	Epoch: 55, Batch(0/2835) done. Loss: 3.75000095  lr:0.000020
+[ Thu Aug 27 18:03:15 2026 ] 	Mean training loss: 5.5599251115.
+[ Thu Aug 27 18:06:28 2026 ] Dev WER: 17.43% DEV del 05.09% DEV ins 02.26%
+[ Thu Aug 27 18:06:28 2026 ] Test WER: 17.74% Test del 04.70% Test ins 02.24%
+[ Thu Aug 27 18:06:28 2026 ] Best_dev: 17.45, 05.18, 02.10, Best_test: 17.53, 05.27, 01.94,Epoch : 48
+[ Thu Aug 27 18:06:28 2026 ] Epoch 55 costs 21 mins 26 seconds
+[ Thu Aug 27 18:06:28 2026 ] Training costs 19 hours 44 mins 46 seconds
+
+[ Thu Aug 27 18:06:38 2026 ] 	Epoch: 56, Batch(0/2835) done. Loss: 6.52098799  lr:0.000020
+[ Thu Aug 27 18:24:45 2026 ] 	Mean training loss: 5.4750307615.
+[ Thu Aug 27 18:27:57 2026 ] Dev WER: 17.61% DEV del 04.94% DEV ins 02.37%
+[ Thu Aug 27 18:27:57 2026 ] Test WER: 17.77% Test del 05.10% Test ins 02.17%
+[ Thu Aug 27 18:27:57 2026 ] Best_dev: 17.45, 05.18, 02.10, Best_test: 17.53, 05.27, 01.94,Epoch : 48
+[ Thu Aug 27 18:27:57 2026 ] Epoch 56 costs 21 mins 28 seconds
+[ Thu Aug 27 18:27:57 2026 ] Training costs 20 hours 6 mins 15 seconds
+
+[ Thu Aug 27 18:28:06 2026 ] 	Epoch: 57, Batch(0/2835) done. Loss: 4.07079124  lr:0.000020
+[ Thu Aug 27 18:46:10 2026 ] 	Mean training loss: 5.3979811589.
+[ Thu Aug 27 18:49:07 2026 ] Dev WER: 17.40% DEV del 05.00% DEV ins 02.37%
+[ Thu Aug 27 18:49:07 2026 ] Test WER: 17.73% Test del 05.07% Test ins 02.14%
+[ Thu Aug 27 18:49:07 2026 ] Best_dev: 17.45, 05.18, 02.10, Best_test: 17.53, 05.27, 01.94,Epoch : 48
+[ Thu Aug 27 18:49:07 2026 ] Epoch 57 costs 21 mins 9 seconds
+[ Thu Aug 27 18:49:07 2026 ] Training costs 20 hours 27 mins 24 seconds
+
+[ Thu Aug 27 18:49:15 2026 ] 	Epoch: 58, Batch(0/2835) done. Loss: 4.45489311  lr:0.000020
+[ Thu Aug 27 19:07:08 2026 ] 	Mean training loss: 5.3759116322.
+[ Thu Aug 27 19:10:10 2026 ] Dev WER: 17.89% DEV del 05.47% DEV ins 02.35%
+[ Thu Aug 27 19:10:10 2026 ] Test WER: 17.77% Test del 05.13% Test ins 02.11%
+[ Thu Aug 27 19:10:10 2026 ] Best_dev: 17.45, 05.18, 02.10, Best_test: 17.53, 05.27, 01.94,Epoch : 48
+[ Thu Aug 27 19:10:10 2026 ] Epoch 58 costs 21 mins 3 seconds
+[ Thu Aug 27 19:10:10 2026 ] Training costs 20 hours 48 mins 28 seconds
+
+[ Thu Aug 27 19:10:16 2026 ] 	Epoch: 59, Batch(0/2835) done. Loss: 10.17092609  lr:0.000020
+[ Thu Aug 27 19:28:13 2026 ] 	Mean training loss: 5.3392891098.
+[ Thu Aug 27 19:31:21 2026 ] Dev WER: 17.69% DEV del 04.69% DEV ins 02.62%
+[ Thu Aug 27 19:31:21 2026 ] Test WER: 17.96% Test del 04.75% Test ins 02.51%
+[ Thu Aug 27 19:31:21 2026 ] Best_dev: 17.45, 05.18, 02.10, Best_test: 17.53, 05.27, 01.94,Epoch : 48
+[ Thu Aug 27 19:31:21 2026 ] Epoch 59 costs 21 mins 10 seconds
+[ Thu Aug 27 19:31:21 2026 ] Training costs 21 hours 9 mins 38 seconds
+
+[ Thu Aug 27 19:31:28 2026 ] 	Epoch: 60, Batch(0/2835) done. Loss: 5.56674385  lr:0.000004
+[ Thu Aug 27 19:49:17 2026 ] 	Mean training loss: 5.1331497348.
+[ Thu Aug 27 19:52:09 2026 ] Dev WER: 17.32% DEV del 05.00% DEV ins 02.28%
+[ Thu Aug 27 19:52:09 2026 ] Test WER: 17.56% Test del 05.03% Test ins 02.13%
+[ Thu Aug 27 19:52:10 2026 ] Save best model
+[ Thu Aug 27 19:52:10 2026 ] Best_dev: 17.32, 05.00, 02.28, Best_test: 17.56, 05.03, 02.13,Epoch : 60
+[ Thu Aug 27 19:52:10 2026 ] Epoch 60 costs 20 mins 48 seconds
+[ Thu Aug 27 19:52:10 2026 ] Training costs 21 hours 30 mins 27 seconds
+
+[ Thu Aug 27 19:52:15 2026 ] 	Epoch: 61, Batch(0/2835) done. Loss: 4.95756817  lr:0.000004
+[ Thu Aug 27 20:10:08 2026 ] 	Mean training loss: 5.0338059419.
+[ Thu Aug 27 20:13:13 2026 ] Dev WER: 17.34% DEV del 04.85% DEV ins 02.43%
+[ Thu Aug 27 20:13:13 2026 ] Test WER: 17.76% Test del 04.96% Test ins 02.22%
+[ Thu Aug 27 20:13:13 2026 ] Best_dev: 17.32, 05.00, 02.28, Best_test: 17.56, 05.03, 02.13,Epoch : 60
+[ Thu Aug 27 20:13:13 2026 ] Epoch 61 costs 21 mins 2 seconds
+[ Thu Aug 27 20:13:13 2026 ] Training costs 21 hours 51 mins 30 seconds
+
+[ Thu Aug 27 20:13:19 2026 ] 	Epoch: 62, Batch(0/2835) done. Loss: 3.29895449  lr:0.000004
+[ Thu Aug 27 20:31:13 2026 ] 	Mean training loss: 4.9785176344.
+[ Thu Aug 27 20:34:15 2026 ] Dev WER: 17.27% DEV del 04.85% DEV ins 02.32%
+[ Thu Aug 27 20:34:15 2026 ] Test WER: 17.59% Test del 04.72% Test ins 02.22%
+[ Thu Aug 27 20:34:16 2026 ] Save best model
+[ Thu Aug 27 20:34:16 2026 ] Best_dev: 17.27, 04.85, 02.32, Best_test: 17.59, 04.72, 02.22,Epoch : 62
+[ Thu Aug 27 20:34:16 2026 ] Epoch 62 costs 21 mins 2 seconds
+[ Thu Aug 27 20:34:16 2026 ] Training costs 22 hours 12 mins 32 seconds
+
+[ Thu Aug 27 20:34:24 2026 ] 	Epoch: 63, Batch(0/2835) done. Loss: 5.43126583  lr:0.000004
+[ Thu Aug 27 20:52:15 2026 ] 	Mean training loss: 4.9404321433.
+[ Thu Aug 27 20:55:20 2026 ] Dev WER: 17.27% DEV del 05.05% DEV ins 02.41%
+[ Thu Aug 27 20:55:20 2026 ] Test WER: 17.65% Test del 05.07% Test ins 02.07%
+[ Thu Aug 27 20:55:20 2026 ] Best_dev: 17.27, 04.85, 02.32, Best_test: 17.59, 04.72, 02.22,Epoch : 62
+[ Thu Aug 27 20:55:20 2026 ] Epoch 63 costs 21 mins 4 seconds
+[ Thu Aug 27 20:55:20 2026 ] Training costs 22 hours 33 mins 37 seconds
+
+[ Thu Aug 27 20:55:31 2026 ] 	Epoch: 64, Batch(0/2835) done. Loss: 6.31882000  lr:0.000004
+[ Thu Aug 27 21:13:34 2026 ] 	Mean training loss: 4.8770514460.
+[ Thu Aug 27 21:16:48 2026 ] Dev WER: 17.14% DEV del 04.80% DEV ins 02.35%
+[ Thu Aug 27 21:16:48 2026 ] Test WER: 17.51% Test del 04.76% Test ins 02.14%
+[ Thu Aug 27 21:16:49 2026 ] Save best model
+[ Thu Aug 27 21:16:49 2026 ] Best_dev: 17.14, 04.80, 02.35, Best_test: 17.51, 04.76, 02.14,Epoch : 64
+[ Thu Aug 27 21:16:49 2026 ] Epoch 64 costs 21 mins 28 seconds
+[ Thu Aug 27 21:16:49 2026 ] Training costs 22 hours 55 mins 6 seconds
+
+[ Thu Aug 27 21:16:59 2026 ] 	Epoch: 65, Batch(0/2835) done. Loss: 5.41586876  lr:0.000004
+[ Thu Aug 27 21:35:07 2026 ] 	Mean training loss: 4.9021367615.
+[ Thu Aug 27 21:38:14 2026 ] Dev WER: 17.14% DEV del 04.67% DEV ins 02.34%
+[ Thu Aug 27 21:38:14 2026 ] Test WER: 17.48% Test del 04.83% Test ins 02.13%
+[ Thu Aug 27 21:38:14 2026 ] Save best model
+[ Thu Aug 27 21:38:14 2026 ] Best_dev: 17.14, 04.67, 02.34, Best_test: 17.48, 04.83, 02.13,Epoch : 65
+[ Thu Aug 27 21:38:14 2026 ] Epoch 65 costs 21 mins 24 seconds
+[ Thu Aug 27 21:38:14 2026 ] Training costs 23 hours 16 mins 31 seconds
+
+[ Thu Aug 27 21:38:21 2026 ] 	Epoch: 66, Batch(0/2835) done. Loss: 3.30613232  lr:0.000004
+[ Thu Aug 27 21:56:30 2026 ] 	Mean training loss: 4.9000702924.
+[ Thu Aug 27 21:59:41 2026 ] Dev WER: 17.36% DEV del 05.23% DEV ins 02.10%
+[ Thu Aug 27 21:59:41 2026 ] Test WER: 17.40% Test del 04.79% Test ins 02.20%
+[ Thu Aug 27 21:59:41 2026 ] Best_dev: 17.14, 04.67, 02.34, Best_test: 17.48, 04.83, 02.13,Epoch : 65
+[ Thu Aug 27 21:59:41 2026 ] Epoch 66 costs 21 mins 27 seconds
+[ Thu Aug 27 21:59:41 2026 ] Training costs 23 hours 37 mins 58 seconds
+
+[ Thu Aug 27 21:59:48 2026 ] 	Epoch: 67, Batch(0/2835) done. Loss: 4.32916927  lr:0.000004
+[ Thu Aug 27 22:17:58 2026 ] 	Mean training loss: 4.8680167278.
+[ Thu Aug 27 22:21:05 2026 ] Dev WER: 17.25% DEV del 04.89% DEV ins 02.37%
+[ Thu Aug 27 22:21:05 2026 ] Test WER: 17.47% Test del 04.79% Test ins 02.19%
+[ Thu Aug 27 22:21:05 2026 ] Best_dev: 17.14, 04.67, 02.34, Best_test: 17.48, 04.83, 02.13,Epoch : 65
+[ Thu Aug 27 22:21:05 2026 ] Epoch 67 costs 21 mins 23 seconds
+[ Thu Aug 27 22:21:05 2026 ] Training costs 23 hours 59 mins 21 seconds
+
+[ Thu Aug 27 22:21:15 2026 ] 	Epoch: 68, Batch(0/2835) done. Loss: 7.96312857  lr:0.000004
+[ Thu Aug 27 22:39:18 2026 ] 	Mean training loss: 4.8790333570.
+[ Thu Aug 27 22:42:23 2026 ] Dev WER: 17.14% DEV del 04.94% DEV ins 02.30%
+[ Thu Aug 27 22:42:23 2026 ] Test WER: 17.57% Test del 04.79% Test ins 02.16%
+[ Thu Aug 27 22:42:23 2026 ] Best_dev: 17.14, 04.67, 02.34, Best_test: 17.48, 04.83, 02.13,Epoch : 65
+[ Thu Aug 27 22:42:23 2026 ] Epoch 68 costs 21 mins 17 seconds
+[ Thu Aug 27 22:42:23 2026 ] Training costs 24 hours 20 mins 39 seconds
+
+[ Thu Aug 27 22:42:33 2026 ] 	Epoch: 69, Batch(0/2835) done. Loss: 9.14576530  lr:0.000004
+[ Thu Aug 27 23:00:43 2026 ] 	Mean training loss: 4.8048794101.
+[ Thu Aug 27 23:03:52 2026 ] Dev WER: 17.16% DEV del 05.20% DEV ins 02.17%
+[ Thu Aug 27 23:03:52 2026 ] Test WER: 17.50% Test del 04.95% Test ins 02.14%
+[ Thu Aug 27 23:03:52 2026 ] Best_dev: 17.14, 04.67, 02.34, Best_test: 17.48, 04.83, 02.13,Epoch : 65
+[ Thu Aug 27 23:03:52 2026 ] Epoch 69 costs 21 mins 28 seconds
+[ Thu Aug 27 23:03:52 2026 ] Training costs 24 hours 42 mins 8 seconds
+
+[ Thu Aug 27 23:03:57 2026 ] 	Epoch: 70, Batch(0/2835) done. Loss: 4.85136557  lr:0.000004
+[ Thu Aug 27 23:22:12 2026 ] 	Mean training loss: 4.8221198960.
+[ Thu Aug 27 23:25:19 2026 ] Dev WER: 17.13% DEV del 04.91% DEV ins 02.35%
+[ Thu Aug 27 23:25:19 2026 ] Test WER: 17.34% Test del 04.73% Test ins 02.11%
+[ Thu Aug 27 23:25:20 2026 ] Save best model
+[ Thu Aug 27 23:25:20 2026 ] Best_dev: 17.13, 04.91, 02.35, Best_test: 17.34, 04.73, 02.11,Epoch : 70
+[ Thu Aug 27 23:25:20 2026 ] Epoch 70 costs 21 mins 27 seconds
+[ Thu Aug 27 23:25:20 2026 ] Training costs 25 hours 3 mins 35 seconds
+
+[ Thu Aug 27 23:25:30 2026 ] 	Epoch: 71, Batch(0/2835) done. Loss: 5.21549177  lr:0.000004
+[ Thu Aug 27 23:43:35 2026 ] 	Mean training loss: 4.8056498243.
+[ Thu Aug 27 23:46:38 2026 ] Dev WER: 17.27% DEV del 04.96% DEV ins 02.19%
+[ Thu Aug 27 23:46:38 2026 ] Test WER: 17.42% Test del 04.86% Test ins 02.22%
+[ Thu Aug 27 23:46:38 2026 ] Best_dev: 17.13, 04.91, 02.35, Best_test: 17.34, 04.73, 02.11,Epoch : 70
+[ Thu Aug 27 23:46:38 2026 ] Epoch 71 costs 21 mins 18 seconds
+[ Thu Aug 27 23:46:38 2026 ] Training costs 25 hours 24 mins 54 seconds
+
+[ Thu Aug 27 23:46:42 2026 ] 	Epoch: 72, Batch(0/2835) done. Loss: 3.20881319  lr:0.000004
+[ Fri Aug 28 00:04:50 2026 ] 	Mean training loss: 4.8603311664.
+[ Fri Aug 28 00:07:48 2026 ] Dev WER: 17.23% DEV del 05.16% DEV ins 02.21%
+[ Fri Aug 28 00:07:48 2026 ] Test WER: 17.51% Test del 04.83% Test ins 02.11%
+[ Fri Aug 28 00:07:48 2026 ] Best_dev: 17.13, 04.91, 02.35, Best_test: 17.34, 04.73, 02.11,Epoch : 70
+[ Fri Aug 28 00:07:48 2026 ] Epoch 72 costs 21 mins 9 seconds
+[ Fri Aug 28 00:07:48 2026 ] Training costs 25 hours 46 mins 3 seconds
+
+[ Fri Aug 28 00:07:51 2026 ] 	Epoch: 73, Batch(0/2835) done. Loss: 2.64609909  lr:0.000004
+[ Fri Aug 28 00:25:47 2026 ] 	Mean training loss: 4.8242161930.
+[ Fri Aug 28 00:28:42 2026 ] Dev WER: 17.05% DEV del 05.25% DEV ins 02.05%
+[ Fri Aug 28 00:28:42 2026 ] Test WER: 17.45% Test del 05.18% Test ins 01.99%
+[ Fri Aug 28 00:28:42 2026 ] Best_dev: 17.13, 04.91, 02.35, Best_test: 17.34, 04.73, 02.11,Epoch : 70
+[ Fri Aug 28 00:28:42 2026 ] Epoch 73 costs 20 mins 54 seconds
+[ Fri Aug 28 00:28:42 2026 ] Training costs 26 hours 6 mins 57 seconds
+
+[ Fri Aug 28 00:28:51 2026 ] 	Epoch: 74, Batch(0/2835) done. Loss: 5.54344082  lr:0.000004
+[ Fri Aug 28 00:46:41 2026 ] 	Mean training loss: 4.7436049745.
+[ Fri Aug 28 00:49:38 2026 ] Dev WER: 17.49% DEV del 05.16% DEV ins 02.15%
+[ Fri Aug 28 00:49:38 2026 ] Test WER: 17.65% Test del 04.70% Test ins 02.24%
+[ Fri Aug 28 00:49:38 2026 ] Best_dev: 17.13, 04.91, 02.35, Best_test: 17.34, 04.73, 02.11,Epoch : 70
+[ Fri Aug 28 00:49:38 2026 ] Epoch 74 costs 20 mins 55 seconds
+[ Fri Aug 28 00:49:38 2026 ] Training costs 26 hours 27 mins 53 seconds
+
+[ Fri Aug 28 00:49:44 2026 ] 	Epoch: 75, Batch(0/2835) done. Loss: 3.87277484  lr:0.000004
+[ Fri Aug 28 01:07:36 2026 ] 	Mean training loss: 4.8089352745.
+[ Fri Aug 28 01:10:30 2026 ] Dev WER: 17.27% DEV del 05.29% DEV ins 02.05%
+[ Fri Aug 28 01:10:30 2026 ] Test WER: 17.60% Test del 05.09% Test ins 01.97%
+[ Fri Aug 28 01:10:30 2026 ] Best_dev: 17.13, 04.91, 02.35, Best_test: 17.34, 04.73, 02.11,Epoch : 70
+[ Fri Aug 28 01:10:30 2026 ] Epoch 75 costs 20 mins 51 seconds
+[ Fri Aug 28 01:10:30 2026 ] Training costs 26 hours 48 mins 45 seconds
+
+[ Fri Aug 28 01:10:37 2026 ] 	Epoch: 76, Batch(0/2835) done. Loss: 4.30462694  lr:0.000004
+[ Fri Aug 28 01:28:29 2026 ] 	Mean training loss: 4.7420249443.
+[ Fri Aug 28 01:31:22 2026 ] Dev WER: 17.45% DEV del 05.09% DEV ins 02.32%
+[ Fri Aug 28 01:31:22 2026 ] Test WER: 17.65% Test del 04.96% Test ins 02.16%
+[ Fri Aug 28 01:31:22 2026 ] Best_dev: 17.13, 04.91, 02.35, Best_test: 17.34, 04.73, 02.11,Epoch : 70
+[ Fri Aug 28 01:31:22 2026 ] Epoch 76 costs 20 mins 51 seconds
+[ Fri Aug 28 01:31:22 2026 ] Training costs 27 hours 9 mins 37 seconds
+
+[ Fri Aug 28 01:31:30 2026 ] 	Epoch: 77, Batch(0/2835) done. Loss: 3.43063807  lr:0.000004
+[ Fri Aug 28 01:49:19 2026 ] 	Mean training loss: 4.7491010329.
+[ Fri Aug 28 01:52:25 2026 ] Dev WER: 17.47% DEV del 05.03% DEV ins 02.28%
+[ Fri Aug 28 01:52:25 2026 ] Test WER: 17.64% Test del 04.96% Test ins 02.07%
+[ Fri Aug 28 01:52:25 2026 ] Best_dev: 17.13, 04.91, 02.35, Best_test: 17.34, 04.73, 02.11,Epoch : 70
+[ Fri Aug 28 01:52:26 2026 ] Epoch 77 costs 21 mins 3 seconds
+[ Fri Aug 28 01:52:26 2026 ] Training costs 27 hours 30 mins 40 seconds
+
+[ Fri Aug 28 01:52:31 2026 ] 	Epoch: 78, Batch(0/2835) done. Loss: 3.74985433  lr:0.000004
+[ Fri Aug 28 02:10:26 2026 ] 	Mean training loss: 4.7098831260.
+[ Fri Aug 28 02:13:32 2026 ] Dev WER: 17.32% DEV del 05.05% DEV ins 02.26%
+[ Fri Aug 28 02:13:32 2026 ] Test WER: 17.60% Test del 04.84% Test ins 02.14%
+[ Fri Aug 28 02:13:32 2026 ] Best_dev: 17.13, 04.91, 02.35, Best_test: 17.34, 04.73, 02.11,Epoch : 70
+[ Fri Aug 28 02:13:32 2026 ] Epoch 78 costs 21 mins 6 seconds
+[ Fri Aug 28 02:13:32 2026 ] Training costs 27 hours 51 mins 46 seconds
+
+[ Fri Aug 28 02:13:38 2026 ] 	Epoch: 79, Batch(0/2835) done. Loss: 5.24391127  lr:0.000004
+[ Fri Aug 28 02:31:27 2026 ] 	Mean training loss: 4.7495141109.
+[ Fri Aug 28 02:34:28 2026 ] Dev WER: 16.87% DEV del 05.00% DEV ins 02.17%
+[ Fri Aug 28 02:34:28 2026 ] Test WER: 17.34% Test del 04.70% Test ins 02.08%
+[ Fri Aug 28 02:34:29 2026 ] Save best model
+[ Fri Aug 28 02:34:29 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 02:34:29 2026 ] Epoch 79 costs 20 mins 56 seconds
+[ Fri Aug 28 02:34:29 2026 ] Training costs 28 hours 12 mins 43 seconds
+
+[ Fri Aug 28 02:34:38 2026 ] 	Epoch: 80, Batch(0/2835) done. Loss: 4.86371088  lr:0.000001
+[ Fri Aug 28 02:52:28 2026 ] 	Mean training loss: 4.7007679815.
+[ Fri Aug 28 02:55:31 2026 ] Dev WER: 17.23% DEV del 05.14% DEV ins 02.23%
+[ Fri Aug 28 02:55:31 2026 ] Test WER: 17.51% Test del 04.99% Test ins 02.03%
+[ Fri Aug 28 02:55:31 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 02:55:31 2026 ] Epoch 80 costs 21 mins 1 seconds
+[ Fri Aug 28 02:55:31 2026 ] Training costs 28 hours 33 mins 45 seconds
+
+[ Fri Aug 28 02:55:37 2026 ] 	Epoch: 81, Batch(0/2835) done. Loss: 3.59398413  lr:0.000001
+[ Fri Aug 28 03:13:32 2026 ] 	Mean training loss: 4.7018517056.
+[ Fri Aug 28 03:16:30 2026 ] Dev WER: 17.29% DEV del 05.21% DEV ins 02.21%
+[ Fri Aug 28 03:16:30 2026 ] Test WER: 17.45% Test del 04.90% Test ins 02.08%
+[ Fri Aug 28 03:16:30 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 03:16:30 2026 ] Epoch 81 costs 20 mins 59 seconds
+[ Fri Aug 28 03:16:30 2026 ] Training costs 28 hours 54 mins 44 seconds
+
+[ Fri Aug 28 03:16:38 2026 ] 	Epoch: 82, Batch(0/2835) done. Loss: 7.30635786  lr:0.000001
+[ Fri Aug 28 03:34:29 2026 ] 	Mean training loss: 4.6490919202.
+[ Fri Aug 28 03:37:27 2026 ] Dev WER: 17.18% DEV del 05.16% DEV ins 02.17%
+[ Fri Aug 28 03:37:27 2026 ] Test WER: 17.65% Test del 04.86% Test ins 02.11%
+[ Fri Aug 28 03:37:27 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 03:37:28 2026 ] Epoch 82 costs 20 mins 57 seconds
+[ Fri Aug 28 03:37:28 2026 ] Training costs 29 hours 15 mins 41 seconds
+
+[ Fri Aug 28 03:37:37 2026 ] 	Epoch: 83, Batch(0/2835) done. Loss: 5.77055359  lr:0.000001
+[ Fri Aug 28 03:55:27 2026 ] 	Mean training loss: 4.6665394055.
+[ Fri Aug 28 03:58:26 2026 ] Dev WER: 17.13% DEV del 05.00% DEV ins 02.21%
+[ Fri Aug 28 03:58:26 2026 ] Test WER: 17.45% Test del 04.79% Test ins 02.13%
+[ Fri Aug 28 03:58:26 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 03:58:26 2026 ] Epoch 83 costs 20 mins 58 seconds
+[ Fri Aug 28 03:58:26 2026 ] Training costs 29 hours 36 mins 40 seconds
+
+[ Fri Aug 28 03:58:34 2026 ] 	Epoch: 84, Batch(0/2835) done. Loss: 4.99507332  lr:0.000001
+[ Fri Aug 28 04:16:25 2026 ] 	Mean training loss: 4.6142579294.
+[ Fri Aug 28 04:19:19 2026 ] Dev WER: 17.45% DEV del 05.72% DEV ins 01.97%
+[ Fri Aug 28 04:19:19 2026 ] Test WER: 17.64% Test del 04.89% Test ins 02.19%
+[ Fri Aug 28 04:19:19 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 04:19:19 2026 ] Epoch 84 costs 20 mins 53 seconds
+[ Fri Aug 28 04:19:19 2026 ] Training costs 29 hours 57 mins 33 seconds
+
+[ Fri Aug 28 04:19:27 2026 ] 	Epoch: 85, Batch(0/2835) done. Loss: 7.70044613  lr:0.000001
+[ Fri Aug 28 04:37:21 2026 ] 	Mean training loss: 4.6360758171.
+[ Fri Aug 28 04:40:15 2026 ] Dev WER: 17.27% DEV del 05.12% DEV ins 02.30%
+[ Fri Aug 28 04:40:15 2026 ] Test WER: 17.80% Test del 04.99% Test ins 02.10%
+[ Fri Aug 28 04:40:15 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 04:40:15 2026 ] Epoch 85 costs 20 mins 55 seconds
+[ Fri Aug 28 04:40:15 2026 ] Training costs 30 hours 18 mins 29 seconds
+
+[ Fri Aug 28 04:40:20 2026 ] 	Epoch: 86, Batch(0/2835) done. Loss: 3.25561523  lr:0.000001
+[ Fri Aug 28 04:58:15 2026 ] 	Mean training loss: 4.6277413221.
+[ Fri Aug 28 05:01:09 2026 ] Dev WER: 17.16% DEV del 05.05% DEV ins 02.26%
+[ Fri Aug 28 05:01:09 2026 ] Test WER: 17.53% Test del 04.78% Test ins 02.17%
+[ Fri Aug 28 05:01:09 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 05:01:09 2026 ] Epoch 86 costs 20 mins 53 seconds
+[ Fri Aug 28 05:01:09 2026 ] Training costs 30 hours 39 mins 22 seconds
+
+[ Fri Aug 28 05:01:16 2026 ] 	Epoch: 87, Batch(0/2835) done. Loss: 5.56552839  lr:0.000001
+[ Fri Aug 28 05:19:07 2026 ] 	Mean training loss: 4.6567647747.
+[ Fri Aug 28 05:22:01 2026 ] Dev WER: 17.13% DEV del 05.30% DEV ins 02.19%
+[ Fri Aug 28 05:22:01 2026 ] Test WER: 17.57% Test del 04.89% Test ins 02.08%
+[ Fri Aug 28 05:22:01 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 05:22:01 2026 ] Epoch 87 costs 20 mins 51 seconds
+[ Fri Aug 28 05:22:01 2026 ] Training costs 31 hours 0 mins 14 seconds
+
+[ Fri Aug 28 05:22:06 2026 ] 	Epoch: 88, Batch(0/2835) done. Loss: 3.55563807  lr:0.000001
+[ Fri Aug 28 05:39:59 2026 ] 	Mean training loss: 4.6537334335.
+[ Fri Aug 28 05:42:51 2026 ] Dev WER: 17.20% DEV del 05.01% DEV ins 02.28%
+[ Fri Aug 28 05:42:51 2026 ] Test WER: 17.53% Test del 04.89% Test ins 02.13%
+[ Fri Aug 28 05:42:51 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 05:42:51 2026 ] Epoch 88 costs 20 mins 49 seconds
+[ Fri Aug 28 05:42:51 2026 ] Training costs 31 hours 21 mins 4 seconds
+
+[ Fri Aug 28 05:42:59 2026 ] 	Epoch: 89, Batch(0/2835) done. Loss: 4.66745567  lr:0.000001
+[ Fri Aug 28 06:00:50 2026 ] 	Mean training loss: 4.6123013614.
+[ Fri Aug 28 06:03:40 2026 ] Dev WER: 17.13% DEV del 05.12% DEV ins 02.19%
+[ Fri Aug 28 06:03:40 2026 ] Test WER: 17.45% Test del 04.87% Test ins 02.14%
+[ Fri Aug 28 06:03:40 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 06:03:41 2026 ] Epoch 89 costs 20 mins 49 seconds
+[ Fri Aug 28 06:03:41 2026 ] Training costs 31 hours 41 mins 53 seconds
+
+[ Fri Aug 28 06:03:46 2026 ] 	Epoch: 90, Batch(0/2835) done. Loss: 4.71456289  lr:0.000001
+[ Fri Aug 28 06:21:38 2026 ] 	Mean training loss: 4.6584122983.
+[ Fri Aug 28 06:24:28 2026 ] Dev WER: 17.16% DEV del 04.96% DEV ins 02.34%
+[ Fri Aug 28 06:24:28 2026 ] Test WER: 17.57% Test del 04.72% Test ins 02.19%
+[ Fri Aug 28 06:24:28 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 06:24:28 2026 ] Epoch 90 costs 20 mins 47 seconds
+[ Fri Aug 28 06:24:28 2026 ] Training costs 32 hours 2 mins 41 seconds
+
+[ Fri Aug 28 06:24:37 2026 ] 	Epoch: 91, Batch(0/2835) done. Loss: 3.58418798  lr:0.000001
+[ Fri Aug 28 06:42:24 2026 ] 	Mean training loss: 4.6370853383.
+[ Fri Aug 28 06:45:30 2026 ] Dev WER: 17.27% DEV del 04.98% DEV ins 02.34%
+[ Fri Aug 28 06:45:30 2026 ] Test WER: 17.43% Test del 04.78% Test ins 02.25%
+[ Fri Aug 28 06:45:30 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 06:45:31 2026 ] Epoch 91 costs 21 mins 2 seconds
+[ Fri Aug 28 06:45:31 2026 ] Training costs 32 hours 23 mins 43 seconds
+
+[ Fri Aug 28 06:45:40 2026 ] 	Epoch: 92, Batch(0/2835) done. Loss: 4.97930765  lr:0.000001
+[ Fri Aug 28 07:03:27 2026 ] 	Mean training loss: 4.6158613895.
+[ Fri Aug 28 07:06:30 2026 ] Dev WER: 17.38% DEV del 05.32% DEV ins 02.19%
+[ Fri Aug 28 07:06:30 2026 ] Test WER: 17.62% Test del 04.98% Test ins 02.10%
+[ Fri Aug 28 07:06:30 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 07:06:30 2026 ] Epoch 92 costs 20 mins 59 seconds
+[ Fri Aug 28 07:06:30 2026 ] Training costs 32 hours 44 mins 42 seconds
+
+[ Fri Aug 28 07:06:39 2026 ] 	Epoch: 93, Batch(0/2835) done. Loss: 4.91995668  lr:0.000001
+[ Fri Aug 28 07:24:26 2026 ] 	Mean training loss: 4.6195909982.
+[ Fri Aug 28 07:27:27 2026 ] Dev WER: 17.22% DEV del 05.12% DEV ins 02.21%
+[ Fri Aug 28 07:27:27 2026 ] Test WER: 17.60% Test del 04.99% Test ins 02.13%
+[ Fri Aug 28 07:27:27 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 07:27:27 2026 ] Epoch 93 costs 20 mins 56 seconds
+[ Fri Aug 28 07:27:27 2026 ] Training costs 33 hours 5 mins 39 seconds
+
+[ Fri Aug 28 07:27:35 2026 ] 	Epoch: 94, Batch(0/2835) done. Loss: 4.75807858  lr:0.000001
+[ Fri Aug 28 07:45:22 2026 ] 	Mean training loss: 4.6526171206.
+[ Fri Aug 28 07:48:24 2026 ] Dev WER: 17.11% DEV del 05.25% DEV ins 02.12%
+[ Fri Aug 28 07:48:24 2026 ] Test WER: 17.59% Test del 04.98% Test ins 02.13%
+[ Fri Aug 28 07:48:24 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 07:48:24 2026 ] Epoch 94 costs 20 mins 57 seconds
+[ Fri Aug 28 07:48:24 2026 ] Training costs 33 hours 26 mins 36 seconds
+
+[ Fri Aug 28 07:48:33 2026 ] 	Epoch: 95, Batch(0/2835) done. Loss: 5.63709164  lr:0.000001
+[ Fri Aug 28 08:06:20 2026 ] 	Mean training loss: 4.6497871266.
+[ Fri Aug 28 08:09:19 2026 ] Dev WER: 17.29% DEV del 05.52% DEV ins 01.97%
+[ Fri Aug 28 08:09:19 2026 ] Test WER: 17.56% Test del 05.01% Test ins 02.07%
+[ Fri Aug 28 08:09:19 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 08:09:19 2026 ] Epoch 95 costs 20 mins 54 seconds
+[ Fri Aug 28 08:09:19 2026 ] Training costs 33 hours 47 mins 31 seconds
+
+[ Fri Aug 28 08:09:23 2026 ] 	Epoch: 96, Batch(0/2835) done. Loss: 4.95442486  lr:0.000001
+[ Fri Aug 28 08:27:17 2026 ] 	Mean training loss: 4.6219053741.
+[ Fri Aug 28 08:30:14 2026 ] Dev WER: 17.16% DEV del 05.10% DEV ins 02.24%
+[ Fri Aug 28 08:30:14 2026 ] Test WER: 17.73% Test del 05.12% Test ins 02.16%
+[ Fri Aug 28 08:30:14 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 08:30:14 2026 ] Epoch 96 costs 20 mins 54 seconds
+[ Fri Aug 28 08:30:14 2026 ] Training costs 34 hours 8 mins 26 seconds
+
+[ Fri Aug 28 08:30:19 2026 ] 	Epoch: 97, Batch(0/2835) done. Loss: 3.65768099  lr:0.000001
+[ Fri Aug 28 08:48:09 2026 ] 	Mean training loss: 4.6755844386.
+[ Fri Aug 28 08:51:06 2026 ] Dev WER: 17.22% DEV del 05.21% DEV ins 02.23%
+[ Fri Aug 28 08:51:06 2026 ] Test WER: 17.39% Test del 04.92% Test ins 02.13%
+[ Fri Aug 28 08:51:06 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 08:51:06 2026 ] Epoch 97 costs 20 mins 51 seconds
+[ Fri Aug 28 08:51:06 2026 ] Training costs 34 hours 29 mins 18 seconds
+
+[ Fri Aug 28 08:51:14 2026 ] 	Epoch: 98, Batch(0/2835) done. Loss: 4.02059174  lr:0.000001
+[ Fri Aug 28 09:09:08 2026 ] 	Mean training loss: 4.6719560945.
+[ Fri Aug 28 09:12:10 2026 ] Dev WER: 17.29% DEV del 05.59% DEV ins 01.94%
+[ Fri Aug 28 09:12:10 2026 ] Test WER: 17.56% Test del 04.98% Test ins 02.14%
+[ Fri Aug 28 09:12:10 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 09:12:10 2026 ] Epoch 98 costs 21 mins 4 seconds
+[ Fri Aug 28 09:12:10 2026 ] Training costs 34 hours 50 mins 22 seconds
+
+[ Fri Aug 28 09:12:16 2026 ] 	Epoch: 99, Batch(0/2835) done. Loss: 5.56000090  lr:0.000001
+[ Fri Aug 28 09:30:09 2026 ] 	Mean training loss: 4.6131045903.
+[ Fri Aug 28 09:33:01 2026 ] Dev WER: 17.14% DEV del 05.27% DEV ins 02.05%
+[ Fri Aug 28 09:33:01 2026 ] Test WER: 17.64% Test del 05.07% Test ins 02.16%
+[ Fri Aug 28 09:33:01 2026 ] Best_dev: 16.87, 05.00, 02.17, Best_test: 17.34, 04.70, 02.08,Epoch : 79
+[ Fri Aug 28 09:33:01 2026 ] Epoch 99 costs 20 mins 50 seconds
+[ Fri Aug 28 09:33:01 2026 ] Training costs 35 hours 11 mins 13 seconds
+
+[ Fri Aug 28 09:33:01 2026 ] Training Done.
+
